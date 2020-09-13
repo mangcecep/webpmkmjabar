@@ -6,7 +6,7 @@
         <div class="row clearfix">
             <div class="col-md-12">
                 <h5 class="alert alert-success text-center">
-                    ini Halaman Home
+                    ini Halaman Statistik
                 </h5>
             </div>
             <div class="col-lg-12">

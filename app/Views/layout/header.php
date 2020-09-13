@@ -39,22 +39,22 @@
             <!-- Links -->
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Profile</a>
+                    <a class="nav-link" href="/profile">Profile</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Aktivitas & kegiatan</a>
+                    <a class="nav-link" href="/activity">Aktivitas & Agenda Kegiatan</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Data Statistik</a>
+                    <a class="nav-link" href="/statistic">Data Statistik</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Visi & Misi</a>
+                    <a class="nav-link" href="/vision">Visi & Misi</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Halaman Komunitas</a>
+                    <a class="nav-link" href="/community">Halaman Komunitas</a>
                 </li>
             </ul>
             <!-- Links -->
