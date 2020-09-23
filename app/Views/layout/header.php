@@ -25,7 +25,7 @@
             <p>Please wait...</p>
         </div>
     </div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary diver">
         <a class="ml-4 mr-4" href="#"><img src="<?= base_url('logo.png'); ?>" style="height: 45px;width: auto" alt="Logo PMKM Prima Indonesia"></a>
 
         <!-- Collapse button -->
@@ -61,7 +61,7 @@
 
             <form class="form-inline">
                 <div class="md-form my-0 mr-4">
-                    <a href="#" class="btn btn-warning">Login</a>
+                    <a href="/login" class="btn btn-warning">Login</a>
                 </div>
             </form>
         </div>
